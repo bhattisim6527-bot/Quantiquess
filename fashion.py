@@ -1182,10 +1182,10 @@ elif page == "✨ StyleDNA":
           st.success("🌞 QUANTIQUE AI has curated a fresh and breezy Summer look just for you!")
           col1, col2, col3 = st.columns(3)
           with col1:
-           st.image("c:/Users/simar/Desktop/fashion/photos/fashion12.jpg", width=200)
+           st.image("gitphotos/fashion12.jpg", width=200)
          
           with col2:  
-           st.image("c:/Users/simar/Desktop/fashion/photos/fahion12.6.jpg",width=200)
+           st.image("gitphotos/fahion12.6.jpg",width=200)
           with col3: 
            st.write("👗 Cotton Maxi Dress")
            st.write("👡 Comfortable Sandals")
@@ -1379,13 +1379,13 @@ elif page == "✨ StyleDNA":
 
           with col1:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/fashion16.jpg",
+            "gitphotos/fashion16.jpg",
             width=200,
             caption="🌞 Summer Men's Collection"
           )
           with col2:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/fashion16.1.jpg",
+            "gitphotos/fashion16.1.jpg",
             width=200,
             caption="🌞 Summer Men's Collection"
           )
@@ -1600,9 +1600,9 @@ elif page == "✨ StyleDNA":
           st.success("🌸 Soft pastel colors create a fresh and graceful spring look.")
           col1, col2, col3 = st.columns(3)
           with col1:
-           st.image("c:/Users/simar/Desktop/fashion/photos/spring girl2.jpg", width=600)
+           st.image("gitphotos/spring girl2.jpg", width=600)
           with col2:
-           st.image("c:/Users/simar/Desktop/fashion/photos/spring girl.jpg", width=300)
+           st.image("gitphotos/spring girl.jpg", width=300)
           with col3:
              st.write("🌸 Floral Dress")
              st.write("👟 White Sneakers")
@@ -1796,13 +1796,13 @@ elif page == "✨ StyleDNA":
 
           with col1:
            st.image(
-            "c:/Users/simar/Desktop/fashion/photos/spring men.jpg",
+            "gitphotos/spring men.jpg",
             width=200,
             caption="🌸 Spring Men's Collection"
             )
           with col2:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/springmen2.jpg",
+            "gitphotos/springmen2.jpg",
             width=200,
             caption="🌸 Spring Men's Collection"
             )
@@ -2022,13 +2022,13 @@ elif page == "✨ StyleDNA":
 
          with col1:
           st.image(
-            "c:/Users/simar/Desktop/fashion/photos/autumgirl.jpg",
+            "gitphotos/autumgirl.jpg",
             width=200,
             caption="🍁 Autumn Women's Collection"
          )
          with col2:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/autumG2.jpg",
+            "gitphotos/autumG2.jpg",
             width=200,
             caption="🍁 Autumn Women's Collection"
          )
@@ -2266,13 +2266,13 @@ elif page == "✨ StyleDNA":
 
            with col1:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/autumbo2.jpg",
+            "gitphotos/autumbo2.jpg",
             width=200,
             caption="🍁 Autumn Men's Collection"
            )
            with col2:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/autumboy.jpg",
+            "gitphotos/autumboy.jpg",
             width=200,
             caption="🍁 Autumn Men's Collection"
            )
@@ -2531,7 +2531,7 @@ elif page == "💎 My Luxury Wardrobe":
   with left:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/wardrob.jpg",
+        "gitphotos/wardrob.jpg",
         use_container_width=True
     )
 
@@ -2555,21 +2555,21 @@ elif page == "💎 My Luxury Wardrobe":
   col1, col2, col3, col4, col5, col6 = st.columns(6)
 
   with col1:
-      st.image("c:/Users/simar/Desktop/fashion/photos/dresses.jpg", use_container_width=True)
+      st.image("gitphotos/dresses.jpg", use_container_width=True)
       st.markdown("### 👗 Dresses")
       st.caption("Luxury gowns, cocktail dresses & timeless couture.")
 
       st.button("✨ Explore", key="dress")
 
   with col2:
-      st.image("c:/Users/simar/Desktop/fashion/photos/heels 2.jpg", use_container_width=True)
+      st.image("gitphotos/heels 2.jpg", use_container_width=True)
       st.markdown("### 👠shoes")
       st.caption("Premium heels, sneakers & designer footwear.")
 
       st.button("✨ Explore", key="shoes")
 
   with col3:
-      st.image("c:/Users/simar/Desktop/fashion/photos/beg3.jpg", use_container_width=True)
+      st.image("gitphotos/beg3.jpg", use_container_width=True)
       st.markdown("### 👜 Bags")
       st.caption("Elegant handbags, totes & luxury clutches.")
 
@@ -2577,21 +2577,21 @@ elif page == "💎 My Luxury Wardrobe":
       
 
   with col4:
-      st.image("c:/Users/simar/Desktop/fashion/photos/watch.jpg", use_container_width=True)
+      st.image("gitphotos/watch.jpg", use_container_width=True)
       st.markdown("### ⌚ Watches")
       st.caption("Luxury watches for timeless elegance.")
 
       st.button("✨ Explore", key="watch") 
       
   with col5:
-      st.image("c:/Users/simar/Desktop/fashion/photos/jewerly.jpg", use_container_width=True)
+      st.image("gitphotos/jewerly.jpg", use_container_width=True)
       st.markdown("### 💍 Jewellery")
       st.caption("Necklaces, earrings & premium accessories.")
 
       st.button("✨ Explore", key="jewellery")
       
   with col6:
-      st.image("c:/Users/simar/Desktop/fashion/photos/permiun.jpg", use_container_width=True)
+      st.image("gitphotos/permiun.jpg", use_container_width=True)
       st.markdown("### 💎 Premium")
       st.caption("Exclusive luxury collection for every season.")
 
@@ -2607,7 +2607,7 @@ elif page == "💎 My Luxury Wardrobe":
 
   with col1:
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/dresses.jpg",
+        "gitphotos/dresses.jpg",
         use_container_width=True
     )
 
@@ -2640,7 +2640,7 @@ elif page == "💎 My Luxury Wardrobe":
             st.write("**Luxury Rating:** ⭐⭐⭐⭐⭐")
 
             st.image(
-                "c:/Users/simar/Desktop/fashion/photos/midnight.jpg",
+                "gitphotos/midnight.jpg",
                 width=300
             )
 
@@ -2668,7 +2668,7 @@ elif page == "💎 My Luxury Wardrobe":
 
   with col1:
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/beg3.jpg",
+        "gitphotos/beg3.jpg",
         use_container_width=True
     )
 
@@ -2701,7 +2701,7 @@ elif page == "💎 My Luxury Wardrobe":
             st.write("**Luxury Rating:** ⭐⭐⭐⭐⭐")
 
             st.image(
-                "c:/Users/simar/Desktop/fashion/photos/bag.jpg",
+                "gitphotos/bag.jpg",
                 width=300
             )
 
@@ -2728,7 +2728,7 @@ elif page == "💎 My Luxury Wardrobe":
 
   with col1:
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/watch.jpg",
+        "gitphotos/watch.jpg",
         use_container_width=True
     )
 
@@ -2761,7 +2761,7 @@ elif page == "💎 My Luxury Wardrobe":
             st.write("**Luxury Rating:** ⭐⭐⭐⭐⭐")
 
             st.image(
-                "c:/Users/simar/Desktop/fashion/photos/watch for buy.png",
+                "gitphotos/watch for buy.png",
                 width=300
             )
 
@@ -3033,7 +3033,7 @@ elif page == "💎 My Luxury Wardrobe":
   with vault1:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/ROYAL.jpg",
+        "gitphotos/ROYAL.jpg",
         use_container_width=True
     )
 
@@ -3065,7 +3065,7 @@ elif page == "💎 My Luxury Wardrobe":
   with vault2:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/PARIS.jpg",
+        "gitphotos/PARIS.jpg",
         use_container_width=True
     )
 
@@ -3096,7 +3096,7 @@ elif page == "💎 My Luxury Wardrobe":
   with vault3:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/midnight elite.jpg",
+        "gitphotos/midnight elite.jpg",
         use_container_width=True
     )
 
@@ -3207,7 +3207,7 @@ elif page == "🌍 Fashion Passport":
   with row1[0]:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/india.jpg",
+        "gitphotos/india.jpg",
         use_container_width=True
     )
 
@@ -3280,7 +3280,7 @@ elif page == "🌍 Fashion Passport":
   with row1[1]:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/fr.jpg",
+        "gitphotos/fr.jpg",
         use_container_width=True
     )
 
@@ -3481,7 +3481,7 @@ minimal elegance.
   with row1[2]:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/japan.jpg",
+        "gitphotos/japan.jpg",
         use_container_width=True
     )
 
@@ -3677,7 +3677,7 @@ for an authentic luxury Japanese look.
   with row1[3]:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/korean.jpg",
+        "git/photos/korean.jpg",
         use_container_width=True
     )
 
@@ -3877,7 +3877,7 @@ creates a timeless luxury look.
   with row2[0]:
 
      st.image(
-        "c:/Users/simar/Desktop/fashion/photos/ital.jpg",
+        "gitphotos/ital.jpg",
         use_container_width=True
      )
 
@@ -4076,7 +4076,7 @@ A well-tailored outfit is the true definition of Italian luxury.
   with row2[1]:
 
      st.image(
-        "c:/Users/simar/Desktop/fashion/photos/turkey.jpg",
+        "gitphotos/turkey.jpg",
         use_container_width=True
      )
 
@@ -4278,7 +4278,7 @@ embroidered shoes for an authentic Ottoman-inspired luxury look.
   with row2[2]:
 
      st.image(
-        "c:/Users/simar/Desktop/fashion/photos/mmmm.jpg",
+        "gitphotos/mmmm.jpg",
         use_container_width=True
      )
 
@@ -4484,7 +4484,7 @@ for a timeless Moroccan luxury look.
   with row2[3]:
 
      st.image(
-        "c:/Users/simar/Desktop/fashion/photos/uk.jpg",
+        "gitphotos/uk.jpg",
         use_container_width=True
      )
 
@@ -4740,7 +4740,7 @@ British luxury look.
   with left:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/royal wedding.jpg",
+        "gitphotos/royal wedding.jpg",
         use_container_width=True
     )
 
@@ -4964,7 +4964,7 @@ Complete the challenge to earn:
   st.caption("The Land of Timeless Luxury Fashion")
 
   st.image(
-    "c:/Users/simar/Desktop/fashion/photos/rk.jpg",
+    "gitphotos/rk.jpg",
     use_container_width=True
   )
 
@@ -5025,7 +5025,7 @@ Complete the challenge to earn:
     "name":"Banarasi Saree",
     "emoji":"🧵✨👰📍",
     "hint":"Luxury silk from Varanasi",
-    "image":"c:/Users/simar/Desktop/fashion/photos/banarsi.jpg",
+    "image":"gitphotos/banarsi.jpg",
     "history":"""
 The Banarasi Saree originated in Varanasi over 500 years ago during the Mughal Empire.
 It is famous for luxurious silk and gold zari work and remains India's most iconic bridal saree.
@@ -5037,7 +5037,7 @@ It is famous for luxurious silk and gold zari work and remains India's most icon
     "name":"Royal Lehenga",
     "emoji":"👑💍✨👰",
     "hint":"Royal bridal outfit",
-    "image":"c:/Users/simar/Desktop/fashion/photos/lehnga.jpg",
+    "image":"gitphotos/lehnga.jpg",
     "history":"""
 The Lehenga became popular during the Mughal period.
 It was worn by queens and noblewomen and is now India's most famous bridal dress.
@@ -5048,7 +5048,7 @@ It was worn by queens and noblewomen and is now India's most famous bridal dress
     "name":"Sherwani",
     "emoji":"🤵👑🎩",
     "hint":"Traditional royal menswear",
-    "image":"c:/Users/simar/Desktop/fashion/photos/men wear.jpg",
+    "image":"gitphotos/men wear.jpg",
     "history":"""
 The Sherwani was introduced during the Mughal Empire.
 Today it is the traditional groom's outfit for Indian weddings.
@@ -5059,7 +5059,7 @@ Today it is the traditional groom's outfit for Indian weddings.
     "name":"Anarkali",
     "emoji":"🌸💃👸",
     "hint":"Named after a Mughal court dancer",
-    "image":"c:/Users/simar/Desktop/fashion/photos/Anarkali.jpg",
+    "image":"gitphotos/Anarkali.jpg",
     "history":"""
 The Anarkali suit is inspired by the legendary Mughal court dancer Anarkali.
 It is admired for its graceful flowing silhouette.
@@ -5225,7 +5225,7 @@ elif page == "📸 Social Fashion Trends":
    with st.container(border=True):
 
     st.image(
-    "c:/Users/simar/Desktop/fashion/photos/black lookbook.jpg",
+    "gitphotos/black lookbook.jpg",
      use_container_width=True
    )
 
