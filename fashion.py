@@ -3677,7 +3677,7 @@ for an authentic luxury Japanese look.
   with row1[3]:
 
     st.image(
-        "git/photos/korean.jpg",
+        "gitphotos/korean.jpg",
         use_container_width=True
     )
 
