@@ -3167,7 +3167,7 @@ elif page == "🌍 Fashion Passport":
   with left:
 
     st.image(
-        "gitphotos/ChatGPT Image Jul 14, 2026, 11_41_24 PM.png",
+        "gitphotos/ChatGPT Image Jul 3, 2026, 09_46_25 PM.png",
         use_container_width=True
     )
 
