@@ -564,7 +564,7 @@ elif page ==  "📊 Analytics":
        
             
       st.subheader("📈 Monthly Sales Trend")
-      df = pd.read_csv("c:/Users/simar/Desktop/fashion/purchase_data.csv")
+      df = pd.read_csv("purchase_data.csv")
       df["PurchaseDate"] = pd.to_datetime(df["PurchaseDate"])#This converts them into real date format.
       df["Month"] = df["PurchaseDate"].dt.strftime("%b")#It creates a new column called Month
       df["Sales"] = df["UnitPrice"] * df["InboundInventory"]#It creates another new column called Sales.
