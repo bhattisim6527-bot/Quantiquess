@@ -483,13 +483,13 @@ if page ==  "🏠 Dashboard":
            
     with right:   
      if season == "🌞 Summer vibes":
-      st.image("c:/Users/simar/Desktop/fashion/photos/fashion1.jpg",width=500)
+      st.image("c:/Users/simar/Desktop/fashion/gitphotos/fashion1.jpg",width=500)
      elif season == "🌷 Spring Bloom":
-       st.image("c:/Users/simar/Desktop/fashion/photos/fashion 2.jpg",width=500)
+       st.image("c:/Users/simar/Desktop/fashion/gitphotos/fashion 2.jpg",width=500)
      elif season == "🍁 Autumn Muse":
-       st.image("c:/Users/simar/Desktop/fashion/photos/fashion 4.jpg", width=500)
+       st.image("c:/Users/simar/Desktop/fashion/gitphotos/fashion 4.jpg", width=500)
      elif season == "❄️ Winter Luxe": 
-       st.image("c:/Users/simar/Desktop/fashion/photos/fashion 8 .jpg",width=500)
+       st.image("c:/Users/simar/Desktop/fashion/gitphotos/fashion 8 .jpg",width=500)
        st.warning("Warm earthy tones with cozy layers for crisp winter days.")
     st.divider()
 
