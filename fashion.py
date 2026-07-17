@@ -74,11 +74,11 @@ if page ==  "🏠 Dashboard":
            col1, col2, col3 = st.columns(3)
 
            with col1:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/summer collection.jpg", width=700)
+            st.image("gitphotos/summer collection.jpg", width=700)
             st.write("🌴 Coastal Breeze Dress")
             
            with col2:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/summer collection 2.jpg", width=700)
+            st.image("gitphotos/summer collection 2.jpg", width=700)
             st.write("🌊 Ocean Breeze Dress")
 
            with col3:
@@ -483,9 +483,9 @@ if page ==  "🏠 Dashboard":
            
     with right:   
      if season == "🌞 Summer vibes":
-      st.image("c:/Users/simar/Desktop/fashion/gitphotos/fashion1.jpg",width=500)
+      st.image("gitphotos/fashion1.jpg",width=500)
      elif season == "🌷 Spring Bloom":
-       st.image("c:/Users/simar/Desktop/fashion/gitphotos/fashion 2.jpg",width=500)
+       st.image("gitphotos/fashion 2.jpg",width=500)
      elif season == "🍁 Autumn Muse":
        st.image("c:/Users/simar/Desktop/fashion/gitphotos/fashion 4.jpg", width=500)
      elif season == "❄️ Winter Luxe": 
