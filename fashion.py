@@ -82,21 +82,21 @@ if page ==  "🏠 Dashboard":
             st.write("🌊 Ocean Breeze Dress")
 
            with col3:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/summer collection6.jpg", width=700)
+            st.image("gitphotos/summer collection6.jpg", width=700)
             st.write("✨ Capri Bloom Dress")
 
            col4, col5, col6 = st.columns(3)
 
            with col4:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/summer collection3.jpg", width=700)
+            st.image("gitphotos/summer collection3.jpg", width=700)
             st.write("✨ Santorini Breeze Dress")
 
            with col5:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/summer collection 4.jpg", width=700)
+            st.image("gitphotos/summer collection 4.jpg", width=700)
             st.write("✨ Amalfi Summer Dress")
 
            with col6:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/summer collection5.jpg", width=700)
+            st.image("/gitphotos/summer collection5.jpg", width=700)
             st.write("✨ Santorini Breeze Dress")
              # ================= MEN ================= #
            st.markdown("---")
@@ -105,28 +105,28 @@ if page ==  "🏠 Dashboard":
            col7, col8, col9 = st.columns(3)
 
            with col7:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/summer men c1.jpg", width=700)
+            st.image("gitphotos/summer men c1.jpg", width=700)
             st.write("✨ Santorini Breeze Dress")
 
            with col8:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/summer men 2.jpg", width=700)
+            st.image("gitphotos/summer men 2.jpg", width=700)
             st.write("✨ Amalfi Summer Dress")
 
            with col9:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/summer c men3.jpg", width=700)
+            st.image("gitphotos/summer c men3.jpg", width=700)
             st.write("✨ Santorini Breeze Dress")
            col10, col11, col12 = st.columns(3)
 
            with col10:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer c men 4.jpg", use_container_width=True)
+            st.image("gitphotos/summer c men 4.jpg", use_container_width=True)
             st.write("👔 QUANTIQUE Coastal Luxe")
 
            with col11:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/summer c men 5.jpg",  use_container_width=True)
+            st.image("gitphotos/summer c men 5.jpg",  use_container_width=True)
             st.write("👕 Riviera Linen Shirt")
 
            with col12:
-            st.image("c:/Users/simar/Desktop/fashion/gitphotos/sumen c men 3.jpg",  use_container_width=True)
+            st.image("gitphotos/sumen c men 3.jpg",  use_container_width=True)
             st.write("🌿 Ocean Breeze Shirt")
            # ================= PREMIUM COLLECTION =================
 
