@@ -5151,7 +5151,7 @@ elif page == "📸 Social Fashion Trends":
    with col1:
     with st.container(border=True):
       st.markdown("### ✨ Floral Edit")
-      st.image("c:/Users/simar/Pictures/Screenshots/inst.jpeg",
+      st.image("gitphotos/inst.jpeg",
             use_container_width=True)
       st.write("🔥 Trending")
       st.caption("👗 Floral Summer Outfit")
@@ -5168,7 +5168,7 @@ elif page == "📸 Social Fashion Trends":
     with st.container(border=True):
       st.markdown("### 💜 Lavender Mood")
     
-      st.image("c:/Users/simar/Pictures/Screenshots/snap.jpeg",use_container_width=True)
+      st.image("gitphotos/snap.jpeg",use_container_width=True)
       st.write("🔥 Trending")
       st.caption("👗 Lavender Evening Dress")
       st.caption("⭐ Rating: 4.8/5")
@@ -5183,7 +5183,7 @@ elif page == "📸 Social Fashion Trends":
     
      st.markdown("### 🤍 Casual Chic")
 
-     st.image("c:/Users/simar/Downloads/p.jpg", use_container_width=True)
+     st.image("gitphotos/p.jpg", use_container_width=True)
      st.write("🔥 Trending")
      st.caption("👗 Casual Street Style")
      st.caption("⭐ Rating: 4.9/5")
